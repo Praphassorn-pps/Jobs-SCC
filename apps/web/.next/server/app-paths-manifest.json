@@ -1,0 +1,13 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/auth/pdpa/page": "app/auth/pdpa/page.js",
+  "/auth/profile-setup/page": "app/auth/profile-setup/page.js",
+  "/jobs-service-example/page": "app/jobs-service-example/page.js",
+  "/demo/page": "app/demo/page.js",
+  "/jobs/page": "app/jobs/page.js",
+  "/page": "app/page.js",
+  "/test-tailwind/page": "app/test-tailwind/page.js",
+  "/auth/upload-id/page": "app/auth/upload-id/page.js",
+  "/profile/page": "app/profile/page.js"
+}

@@ -1,0 +1,9 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[655],{9339:function(e,r,t){Promise.resolve().then(t.bind(t,1043))},1043:function(e,r,t){"use strict";t.r(r),t.d(r,{default:function(){return TestPage}});var n=t(7573);function TestPage(){return(0,n.jsx)("div",{className:"min-h-screen bg-blue-500 flex items-center justify-center",children:(0,n.jsxs)("div",{className:"bg-white p-8 rounded-lg shadow-xl",children:[(0,n.jsx)("h1",{className:"text-4xl font-bold text-red-500 mb-4",children:"Tailwind Test Page"}),(0,n.jsx)("p",{className:"text-gray-700 mb-4",children:"ถ้าเห็นสีและ styles นี่แสดงว่า Tailwind ทำงาน!"}),(0,n.jsxs)("div",{className:"flex gap-4",children:[(0,n.jsx)("button",{className:"bg-green-500 hover:bg-green-600 text-white px-6 py-2 rounded-lg",children:"ปุ่มสีเขียว"}),(0,n.jsx)("button",{className:"bg-purple-500 hover:bg-purple-600 text-white px-6 py-2 rounded-lg",children:"ปุ่มสีม่วง"})]})]})})}},8294:function(e,r,t){"use strict";/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */var n=t(7653),s=Symbol.for("react.element"),l=Symbol.for("react.fragment"),o=Object.prototype.hasOwnProperty,i=n.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED.ReactCurrentOwner,a={key:!0,ref:!0,__self:!0,__source:!0};function q(e,r,t){var n,l={},c=null,u=null;for(n in void 0!==t&&(c=""+t),void 0!==r.key&&(c=""+r.key),void 0!==r.ref&&(u=r.ref),r)o.call(r,n)&&!a.hasOwnProperty(n)&&(l[n]=r[n]);if(e&&e.defaultProps)for(n in r=e.defaultProps)void 0===l[n]&&(l[n]=r[n]);return{$$typeof:s,type:e,key:c,ref:u,props:l,_owner:i.current}}r.Fragment=l,r.jsx=q,r.jsxs=q},7573:function(e,r,t){"use strict";e.exports=t(8294)}},function(e){e.O(0,[293,53,744],function(){return e(e.s=9339)}),_N_E=e.O()}]);
